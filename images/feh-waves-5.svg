@@ -1,7 +1,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1920 225.6" style="enable-background:new 0 0 1920 225.6;" xml:space="preserve">
+	 viewBox="0 0 1920 900" style="enable-background:new 0 0 1920 900;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FCA0B7;}
+	.st0{fill:#E64F74;enable-background:new;}
 </style>
-<path class="st0" d="M0,225.6v-180c260.1-26.1,520.3-52.3,730-44s369.1,50.9,559,64s410.5-3.5,631-20v180H0z"/>
+<path class="st0" d="M0,900V0c160.5,15.6,321.1,31.2,524,35s448.3-4.2,688-12s473.9-15.4,708-23v900H0z"/>
 </svg>
