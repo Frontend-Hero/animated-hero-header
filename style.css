@@ -64,13 +64,13 @@ html, body { height: 100%; font-family: uniform; }
 	* Individual waves & ::after pseudo elements
 	*/
 	.wave-1 {
-		background-image: url(images/feh-waves-5.svg);
+		background-image: url(images/feh-waves-1.svg);
 		height: 24%;
 	}
 	.wave-1:after { animation-delay: 650ms; }
 
 	.wave-2 {
-		background-image: url(images/feh-waves-4.svg);
+		background-image: url(images/feh-waves-2.svg);
 		height: 43%;
 	}
 	.wave-2:after { animation-delay: 800ms; }
@@ -82,13 +82,13 @@ html, body { height: 100%; font-family: uniform; }
 	.wave-3:after { animation-delay: 950ms; }
 
 	.wave-4 {
-		background-image: url(images/feh-waves-2.svg);
+		background-image: url(images/feh-waves-4.svg);
 		height: 82%;
 	} 
 	.wave-4:after { animation-delay: 1100ms; }
 
 	.wave-5 {
-		background-image: url(images/feh-waves-1.svg);
+		background-image: url(images/feh-waves-5.svg);
 		height: 92%;
 	}
 	.wave-5:after { animation-delay: 1250ms; }
